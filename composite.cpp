@@ -11,7 +11,7 @@ int main() {
         }
     else{
         cout<<n<<" IS NOT A COMPOSITE NUMBER";
-        break;
+        break; 
     }
     }
 }    
